@@ -22,7 +22,7 @@ Visual components and Python
 ## Program
 !![image](https://github.com/Oviya49/Open-Jacson-Networks/assets/153576803/654bbc80-479e-48c6-9ca7-2d3031ae5e92)
 
-
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
