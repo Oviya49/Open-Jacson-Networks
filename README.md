@@ -20,7 +20,10 @@ Visual components and Python
 
 
 ## Program
+!![image](https://github.com/Oviya49/Open-Jacson-Networks/assets/153576803/654bbc80-479e-48c6-9ca7-2d3031ae5e92)
 
+
+![image](https://github.com/Oviya49/Open-Jacson-Networks/assets/153576803/b48f95ad-7aa9-4166-b5aa-7ee388cedf1f)
 
 ## Output
 
