@@ -63,6 +63,7 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output
+```
 Enter the mean inter arrival time of objects from Feeder (in secs): 12
 Enter the mean  inter service time of Lathe Machine 1 (in secs) :  1
 Enter the mean  inter service time of Lathe Machine 2 (in secs) :  1.5
@@ -82,5 +83,7 @@ Average waiting time of an object in the conveyor S1 : 16.00 secs
 Average waiting time of an object in the conveyor S2 : 20.64 secs
 Average waiting time of an object in the conveyor S3 : 18.62 secs
 ----------------------------------------------------------------------
-
+```
 ## Result
+The program of Series Queues with infinite capacity - Open Jackson Network ran successfully.
+
